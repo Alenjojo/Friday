@@ -1,10 +1,10 @@
 ### Dependencie
 
-pip install speechrecognition
-pip install pyttsx3
-pip install pyaudio
-pip install playsound
-pip install PyObjC
+-pip install speechrecognition
+-pip install pyttsx3
+-pip install pyaudio
+-pip install playsound
+-pip install PyObjC
 
 pip install PyAudio
 
@@ -12,6 +12,5 @@ pip install PyAudio
 
 - What is your name?
 - What time is it
-- Search
-- Find Location
+- Search for ...
 - Exit
