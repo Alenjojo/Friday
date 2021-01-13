@@ -1,4 +1,4 @@
-### Dependencie
+### Dependency
 
 - pip install speechrecognition
 - pip install pyttsx3
